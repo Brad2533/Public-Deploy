@@ -4,12 +4,12 @@ where the usable versions of my stuff live
 
 ## Products
 
+<!-- BEGIN PRODUCT TABLE (auto-generated, do not edit by hand) -->
 | Product | Platform | Latest version | Download this file | Released |
 |---|---|---|---|---|
 | MobileIQ | Android | [1.0](https://github.com/Brad2533/Public-Deploy/releases/tag/mobileiq-v1.0) | [`mobileiq-1.0.apk`](https://github.com/Brad2533/Public-Deploy/releases/download/mobileiq-v1.0/mobileiq-1.0.apk) | 2026-10-06 |
+<!-- END PRODUCT TABLE -->
 
-Each product's releases are tagged `<product>-v<version>` (for example `mobileiq-v1.0`), and every download lives under the [Releases](https://github.com/Brad2533/Public-Deploy/releases) page.
+The table above is rebuilt automatically whenever a release is published, edited, or deleted. It always links the file you actually want; checksum files (`.sha256` and similar) are only for verifying a download and aren't needed to install.
 
-## Which file do I download?
-
-- **MobileIQ (Android):** just the `.apk`. The `.apk.sha256` file next to it is only a checksum for verifying the download, so you don't need it to install.
+Releases are tagged `<product>-v<version>` (for example `mobileiq-v1.0`). Every download lives on the [Releases](https://github.com/Brad2533/Public-Deploy/releases) page.
